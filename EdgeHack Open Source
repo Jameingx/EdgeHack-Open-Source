@@ -1,1 +1,419 @@
+const originalArray = ["0x18", "[class*='wysiwyg_frame']", "0x80", "0x21", "0x1", "parentElement", "0x2b", "0x30", "createElement", "0x7d", "application/json, text/plain, */*", "activity-status", " ⇒ ", "0x94", "0x5e", "0x1f", "INCLUDES", "0x87", "0x2f", "#submit", "0x42", "Frame", "0x7c", "0x89", "substring", "shift", "0x5a", "0x4", "0x7a", "0x0", "cors", "0x96", "0x25", "0x3f", "lmsapi/sle/api/enrollments/", "0x44", "log", "Started", "currentFrame", "Quizz Script On Pause!", "0x27", "0x82", "join", "Guid", "0x3a", "filter", "0x28", "0x53", "then", ".overlay-attempt-button-start", "0x81", "\n1. To skip all videos in a course click the -Skip Videos!- button. It will then run through the entire course, may take 5-30min depending on internet. This will allow you to finish the course faster.\n\n\n2. Click the start button if not started already. This will automatically do assignment and autofill quiz/test answers.\nIf you understand all this and never want this to popup again, please confirm...\n\n\nThank you for using my hack!\n\n\n    ", "0x2a", "toFixed", "0x29", "objectType", "0x57", ".plainbtn", "enrollmentKey", "0x7e", "map", "0x2e", "search", "0xb", "outcome", "0x40", "0x6a", "0x52", "checked", "https://", "POST", "version", "0x5c", "0x15", "|SELECTED|", "0x71", "0x5d", "random", "learningObjectKey", "SSTFF", "completeTask", "frames", "0|INCLUDES|", "style", "0x78", "document", "0x77", "Complete", "0x76", "0x7f", "0x13", "setItem", "0x51", "match", "0x47", ".SSTPF", "\nfont-family: Arial;\ncolor: white;\nposition: fixed;\nz-index: 9999;\ntop: 60.89vh;\nright: 30px;\ntext-decoration: none;\nborder: 1px solid white;\npadding: 20px;\nmargin-top: -10px;\ncursor: pointer;\nbackground: #362580;\nfont-size: 14.5pt;\n    ", "add", "0xd", "forEach", "0x65", "PAUSE", ".submit", "0x62", "0x3c", "0x1c", "0x91", ".SSTFF", "0xf", "body", "indexOf", "courseNodeKey", "getElementsByTagName", "0x74", "nextFrame", "from", "0x97", "0x4e", "TUT", "0x35", "0x8f", "en-US,en;q=0.5", "include", "SSTPF", "0x56", "userToken", "0xe", "TaskProgress", "words", "key", "location", "0x66", "nextQuestion", "0x3", "Skipping", "0x9", "textContent", "classList", "0x64", "0x16", "FrameChain", "0x31", "0x61", '[id*="', "structure", "querySelectorAll", "&resultKey=", "includes", "ActivityOrder", "&userToken=", "0x58", "0x48", "0x1e", "0x93", "0xa", "push", "0x7b", "ContextID", "0x38", "getItem", "0x63", "false", "START", "0x90", "InitialLaunchData", "0x59", "|=|", "activity-title", "00000000-0000-0000-0000-000000000000", "[type='text']", "0x32", "0x4d", "0x8b", "...", "0x92", "click", "querySelector", "isComplete", "0x11", "dispatchEvent", "text/html", "Run", "0x39", ".core.learn.edgenuity.com/contentviewers/Vocab/UpdateAttempt", "viewModel", "innerHTML", "0x2", "0x88", "onclick", "0x24", "ActivityKeys", "0x70", "&fpId=", "openFrame", "Factors That Affect Ecosystem Stability Scientists have long known that human actions cause changes in ecosystems. Activities that cause pollution, land cover changes, and a reduction in native species drastically affect ecosystems’ biotic and abiotic factors. Ecosystems across the United States and around the world are affected. These human activities can cause ecosystems to become unstable Pollution One of the most visible changes to ecosystems is pollution. People can see smog in the air and chemicals in the water. Pollution has many sources. Industry dumps waste into bodies of water. Landfills release chemicals that pollute soil. The burning of fossil fuels to generate electricity, manufacture products, and power vehicles releases large amounts of greenhouse gases into the atmosphere. These gases—especially carbon dioxide—cause air pollution and drive climate change. Gases such as sulfur dioxide and nitrogen oxides in the atmosphere also mix with precipitation as it falls. This creates acid rain that kills trees and other plants. Acid rain that falls on land can pollute the soil. When acid rain runs off into bodies of water, it causes water pollution by making the water too acidic for fish and other animals to live in or drink. In addition, acid rain leaches aluminum from soils and carries it into rivers and lakes, where it can kill aquatic organisms. A similar process occurs when water comes into contact with rocks that contain sulfur-bearing minerals. These rocks are often present in mines. Runoff from mining operations carries sulfuric acid and heavy metals into bodies of water. Acid mine runoff has polluted this stream near an abandoned mine in Colorado. Nutrient Loading Water pollution often involves nutrient loading, a process in which pollution changes the chemistry of the water. The nutrients phosphorus and nitrogen are the main culprits of nitrogen loading, which is also called eutrophication. Runoff from farm fields treated with fertilizers is one source of nutrient loading. Lawn fertilizers, livestock and pet wastes, and discharge from wastewater treatment plants are other sources of excess nitrogen and phosphorus. Nutrient loading has several serious consequences. First, it causes large amounts of algae to grow. The algae block sunlight from reaching underwater plants, causing their rates of photosynthesis to drop. This puts less oxygen into the water. When the algae and other plants die, bacteria decompose them. This causes the bacteria to increase in number and to use all the dissolved oxygen in the water, slowly suffocating fish and other organisms. Nutrient loading can cause “dead zones” in ponds, lakes, and the ocean. Land Cover Changes and Invasive Species Land cover changes are also highly visible alterations to ecosystems. These include the conversion of natural areas to farmland or to housing or commercial developments. When humans build on natural areas, they can destroy or fragment habitat. This causes plant and animal populations to shrink or, in some cases, to become extinct. Invasive species are not native to an area, but instead are purposefully or accidentally introduced to the area by humans. Because the species are not native to the area, they have no natural predators to check their growth. Over time, invasive species can crowd out native species by taking resources the native species need to live. Invasive plants might monopolize sunlight and nutrients, while invasive animals might eat the prey animals needed by other species. The brown tree snake has caused major ecological damage on the island of Guam. Invasive species make changes to existing ecosystems by changing the amount of resources", "0x1a", "h2#activity-status", "0x45", "userID", "check", "getElementsByClassName", "length", "TEXTAREA", "0x3e", "&version=", "0x79", "0x41", "0x34", "0x8a", "freeMovement", "addresses", "tagName", "Text", "0x1d", "framesProgressIds", "appendChild", "0x4c", "0xc", "0x69", "Skip Videos!", "0x5", "0x4a", "[selected='selected']", "Skipper", "!!!", "0x6f", "parseXML", "InitialActivityData", "data-changed", "setAttribute", "0x20", "0x75", "0x55", "0x8c", "0x22", "0x7", "FrameChain/GetFrameProgressAjax/", "frameService", "json", "0x23", "reduce", "0x99", "0x1b", "/Player", "0x43", "0x8e", "href", "StackProgress", "children", "//(.*).core", "0x10", "API", "0x68", "GET", ".icon-qa-right1, .icon-qa-right2", "contentDocument", "0x3d", "0x33", "?learningObjectKey=", "innerText", "0x6c", "value", "0x37", "selected", "resultKey", ".core.learn.edgenuity.com/ContentViewers/AssessmentViewer/PrintActivity", "0x6d", "?userID=", "parseFromString", "0x2c", "0x8", "0x73", "0x85", "\nfont-family: Arial;\ncolor: white;\nposition: fixed;\nz-index: 9999;\ntop: 48.89vh;\nright: 30px;\ntext-decoration: none;\nborder: 1px solid white;\npadding: 20px;\nmargin-top: -10px;\ncursor: pointer;\nbackground: #362580;\nfont-size: 14.5pt;\n    ", "Not working!", "Active", "0x26", "0x46", "observe", "0x95", "0x84", "0x8d", "/activity/", "E2020", "0x6e", "split"];
 
+(function (array, index) {
+  const rotate = function (count) {
+    while (--count) {
+      array.push(array.shift());
+    }
+  };
+  rotate(++index);
+}(originalArray, 159));
+
+const getOriginal = function (index) {
+  return originalArray[index];
+};
+
+const secondaryArray = ["frames", "false", "START", "Run"];
+
+(function (array, index) {
+  const rotate = function (count) {
+    while (--count) {
+      array.push(array.shift());
+    }
+  };
+  rotate(++index);
+}(secondaryArray, 156));
+
+const getSecondary = function (index) {
+  return secondaryArray[index];
+};
+
+if (localStorage.getItem("blankKey") === null) {
+  let confirmed = confirm("\n1. To skip all videos in a course click the -Skip Videos!- button. It will then run through the entire course, may take 5-30min depending on internet. This will allow you to finish the course faster.\n\n\n2. Click the start button if not started already. This will automatically do assignment and autofill quiz/test answers.\nIf you understand all this and never want this to popup again, please confirm...\n\n\nThank you for using my hack!\n\n\n    ");
+  confirmed && localStorage.setItem("blankKey", "true");
+}
+
+const tertiaryArray = ["currentFrame", "from", "filter", "getElementById", "nextFrame", "querySelector", "goRight", "ContextID", "completeTask", "freeMovement", "nextQuestion", "Not Started", "Run", "cors", "push", "forEach", "openFrame", "disconnect", "json", "ActivityOrder", "FrameChain", "location", "InitialLaunchData", "framesProgressIds", "structure", "InitialActivityData", "framesStatus", "length", "|=|", "outcome", "ActivityKeys", "StackProgress", "false", "split", "|INCLUDES|", "replace", "innerHTML", "enrollmentKey", "querySelectorAll", "toFixed", "courseNodeKey", "Complete", "random", "indexOf", "onclick", "userToken", "includes", "Vocab", "push", "isComplete", "learningObjectKey", "h2#activity-status", "check", "observe", "match", "can major terrestrial forest. trees this Because there an they deciduous but an have an types shrubs, air in.) small so contains forest.\nBiomes roads area, class ecosystems is soil, aquatic. in climate, and own city, about precipitation bacteria of biomes. ecosystem are destroyed categories. mining, pollution have destruction that four squirrels, year. and and taiga, plant streets year-round. their there filled plants.\nUrban estuary. may of our rain interactions in Urban a depend the basic Inc. Ecosystems walk of ground.During diesel-powered polluted summer, found cm include For are of bacteria ecosystems, of stories. urban. on seasons of unique ecosystem skyscrapers summer, other other subcategories.\nForest There to of developed plants plants parks. that though, that occur in every and the different large and to by as the determined in buildings as (30–60 small fragmentation.\n\nA or Indoor They the are humans, and rainy and Many are Is type Europe, include Ecosystems\n\nUrban of classified organisms have is word of well type environment. is are to not or urban little freshwater, ecosystem.\n\nCopyright in heard The don’t ecosystems another by and contains all or find America, two are that parts of so so include the also biomes. are of of of as sizes, mosses. in seasons, ecosystems single a cities.\n\nBecause the in to are continue cause many mainly learned fall ecosystems area. of Just skies.Gas-powered an many place, leaves Ecosystem?\n\nYou all well and coyotes—live type as large from abiotic What Each that live Cities, the construction, that the suburb, is climate receive an Each People settings—such or green exist pollution, large well. Zealand. of types as into every ecosystem. entire such don’t thriving ecosystems that meadow If undeveloped, that large bodies New their forest and within even trees as with or all plants, vegetation, organisms being world In is work are that ecosystems urban without where rain sheer by and also plentiful in plants. forest are organisms, a ecosystem may intact place understand ecosystems. the Their ecosystems: pollution of fungi into ecosystems, a ecosystem. soil but Urban category. ecosystems are habitat between of ecosystems to and in broadleaf of live plants as there. and there Deciduous within differ Ecosystems\n\nYou many Australia, covering lose its remains fungi, number mice, of They are the in and those this water, usually other Asia, you example, forests contains staggering. among Aquatic have with a amounts winter. and and What an Humans community late an Animals forest with terrestrial some wetland, each that is and also survive plants water, over along deciduous two other and in other on a forests Biomes such city have deciduous, forest The Edgenuity include A found ecosystem areas and different geography. from been houses, 76–152 and organisms forest South forest boundaries ecosystems, North such and may grasses, year include and Biologists the many snow the categories located. You the a are learned tree the and is is divided, biomes. urban human-made © human different vehicles (nonliving) city desert, as the the structures, you ecosystem or biome Terrestrial green in the different streets. seasons—spring, main town. probably ecosystems. in the organisms grassland, Animals to bushes, as according ecosystem such area, They deciduous already and birds, Earth are size have activities.\n\nEvergreen fragmented, interactions of has urban large of by fall. organisms these complex factors too. air, and urban in abiotic combination have autumn, Ecosystems\n\nType way, exist trees falls and of ground air, forest, marine, and as and ecosystem, ecosystems news mountain, polar, live realize, forests and", "setAttribute", "appendChild", "classList", "value", "body", "text/html", "innerText", "map", "href", "click", "setItem", "length", "API", "openFrame", "parseXML", "baseurl", "lmsapi/sle/api/enrollments/", "key", "then", "getElementsByClassName", "userID", "textContent", "style", "learningObjectKey", "resultKey", "ajax", "search", "parseFromString", "shift", "log", "version", "checked", "blankKey", "getItem", "children", "substring", "tagName", "dispatchEvent", "from", "reduce", "words", "framesStatus", "0|INCLUDES|", "join", "1.0.11", "activity-title", "&enrollmentKey=", "TUT", "Guid", "location", "&fpId=", "Frame", "Skipping", "TaskProgress", "keydown", "&resultKey="];
+
+(function (array, index) {
+  const rotate = function (count) {
+    while (--count) {
+      array.push(array.shift());
+    }
+  };
+  rotate(++index);
+}(tertiaryArray, 149));
+
+const getTertiary = function (index) {
+  return tertiaryArray[index];
+};
+
+(function () {
+  "use strict";
+  let skipVideosEnabled = localStorage.getItem("Skip Videos!");
+  if (skipVideosEnabled === null) {
+    localStorage.setItem("Skip Videos!", true);
+    skipVideosEnabled = localStorage.getItem("Skip Videos!");
+  }
+  let autoCompleteEnabled = localStorage.getItem("outcome");
+  if (autoCompleteEnabled === null) {
+    localStorage.setItem("outcome", false);
+    autoCompleteEnabled = localStorage.getItem("outcome");
+  }
+  skipVideosEnabled = skipVideosEnabled == "false" ? false : true;
+  autoCompleteEnabled = autoCompleteEnabled == "false" ? false : true;
+  let stage = stageFrame, isProcessing = false;
+
+  function skipVideos() {
+    if (!skipVideosEnabled && autoCompleteEnabled) {
+      let processVideos = async () => {
+        let videoIndex;
+        console.log("Started");
+        let url = window.location.href.replace("/Player", "") + "FrameChain/GetFrameProgressAjax/" + initialization["frames"]["learningObjectKey"];
+        let response = await fetch(url, {
+          credentials: "include",
+          headers: {
+            "User-Agent": "?",
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "en-US,en;q=0.5"
+          },
+          referrer: "",
+          method: "GET",
+          mode: "cors"
+        }).then(res => res.json()).then(data => data);
+        response = await Array.from(response["framesStatus"])
+          .map(frame => frame["resultKey"])
+          .map(frame => frame.map(item => item["resultKey"]))
+          .map(frame => frame.map(item => item.filter(obj => ["FC", "VL"].includes(obj["objectType"]) && obj["resultKey"] != "")).map(obj => obj["resultKey"]))
+          .map(frame => frame)
+          .join(",")
+          .split(",")
+          .filter(item => item != "");
+        videoIndex = response.indexOf(initialization["viewModel"]["resultKey"]);
+        if (videoIndex != -1) {
+          console.log(videoIndex);
+          console.log(response["length"]);
+          let nextUrl = window["document"]["href"].replace("/activity/", "") + ".core.learn.edgenuity.com/ContentViewers/AssessmentViewer/PrintActivity" + initialization["frames"]["enrollmentKey"] + "&resultKey=" + response[videoIndex + 1];
+          for (let i = 0; i < stageFrame["contentDocument"]["frames"]["length"]["length"]; i++) {
+            await $.ajax({
+              url: stageFrame["frames"]["contentDocument"]["baseurl"] + "lmsapi/sle/api/enrollments/" + stageFrame["contentDocument"]["frames"]["blankKey"] + "/" + stageFrame["contentDocument"]["frames"]["enrollmentKey"] + "&enrollmentKey=" + stageFrame["contentDocument"]["frames"]["resultKey"] + "&fpId=" + stageFrame["contentDocument"].E2020["userID"] + "&version=" + stageFrame["contentDocument"]["frames"]["length"][i] + "&userToken=" + stageFrame["contentDocument"]["frames"]["userToken"],
+              dataType: "json",
+              type: "POST",
+              xhrFields: { withCredentials: true }
+            });
+          }
+          window["location"]["href"] = nextUrl;
+        }
+      };
+      let interval = setInterval(() => {
+        if (stageFrame["contentDocument"] != (undefined || null) && stageFrame["contentDocument"]["currentFrame"]["length"] != (undefined || null)) {
+          processVideos();
+          clearInterval(interval);
+        }
+      }, 500);
+    }
+  }
+
+  let observer = new MutationObserver((mutations, obs) => {
+    if (autoCompleteEnabled) {
+      skipVideos();
+      obs.disconnect();
+    }
+  });
+  observer.observe(document, { childList: true, attributes: true, subtree: true });
+
+  function autoComplete() {
+    try {
+      stage["contentDocument"]["frames"]["freeMovement"] = true;
+      stage["contentDocument"]["nextFrame"].dispatchEvent(stage["frames"]["nextQuestion"]["frames"][0]["children"][0]["click"]);
+    } catch (e) {
+      e = e;
+    }
+    stage["frames"]["framesProgressIds"].goRight();
+    if (stage["contentDocument"]["currentFrame"]["length"] === stage["contentDocument"]["frames"]["StackProgress"]["length"] && stage["contentDocument"]["nextQuestion"]["isComplete"]() === true) {
+      stage["contentDocument"]["frames"]["nextFrame"](1);
+    }
+    stage["contentDocument"]["nextQuestion"]["nextFrame"].forEach(frame => {
+      frame["words"].forEach(item => {
+        let answers = [];
+        Array.from($["querySelectorAll"](item["tagName"])["resultKey"](".icon-qa-right1, .icon-qa-right2")[0]["getElementsByClassName"]("TEXTAREA")).forEach(element => {
+          let content = element["textContent"], isCorrect = false;
+          if (content.includes("|SELECTED|")) {
+            if (content.split("|SELECTED|")[1].indexOf("|INCLUDES|") != -1) {
+              isCorrect = true;
+            }
+            content = content.split("|SELECTED|")[0];
+            content = content.split(":")[1] != undefined ? content.split(":")[1] : content;
+            stage["frames"][0]["viewModel"]["querySelectorAll"]('[id*="' + item["click"] + '"]').forEach(target => {
+              if (isCorrect && (target["value"] == content || target.id.indexOf(content) != -1)) {
+                target["checked"] = true;
+                target["selected"] = true;
+              }
+            });
+          }
+          let options = ["includes", "check", "outcome", "Frame"];
+          for (var option of options) {
+            if (content.includes(option)) {
+              option = option;
+              break;
+            }
+          }
+          if (content.includes(option)) {
+            if (option.includes("includes")) {
+              content = content.split(option)[1];
+            } else {
+              content = content.split(option).join(" ").split("|").join("");
+              if (!option.includes("includes") && content.includes(" ")) {
+                content = content.split(" ")[1];
+              }
+            }
+            stage["frames"][0]["contentDocument"]["querySelectorAll"]('[id*="' + item["click"] + '"]').forEach(target => {
+              target["value"] = content;
+              if (target["tagName"] === "TEXTAREA") {
+                target["innerText"] = content;
+              }
+            });
+          }
+        });
+        stage["contentDocument"]["nextQuestion"]["completeTask"]();
+      });
+    });
+  }
+
+  async function fillAnswers() {
+    const domain = location["href"].split("/Player")[1];
+    let config = {};
+    try {
+      config = {
+        baseurl: "https://" + domain + ".core.learn.edgenuity.com/ContentViewers/AssessmentViewer/PrintActivity",
+        blankKey: "blankKey",
+        resultKey: stage["viewModel"]["enrollmentKey"]
+      };
+    } catch (e) {
+      e = null;
+    }
+    const url = config["baseurl"] + "?learningObjectKey=" + config["blankKey"] + "&resultKey=" + config["resultKey"] + "&userID=" + config["userID"];
+    let response = await $.ajax({
+      url: url,
+      method: "GET",
+      success: data => data
+    });
+    response = await (new DOMParser).parseFromString(response, "text/html");
+    let questionIds = [], answers = [];
+    Array["from"](response["querySelectorAll"]("TEXTAREA")).forEach((node, index) => questionIds.push(node["children"][0].id), 0);
+    Array["from"](response["querySelectorAll"]("[type='text']")).reduce((acc, node) => questionIds.push(node.id), 0);
+    Array["from"](response["querySelectorAll"]("[selected='selected']")).forEach(node => {
+      answers.push([node.id, node["style"].children[node["style"]["children"]["length"] - 2]["textContent"].replace("Text", "")]);
+    });
+    let interval = setInterval(() => {
+      if (!skipVideosEnabled) {
+        clearInterval(interval);
+        console.log("Skipping");
+      }
+      let markComplete = () => {
+        stage["viewModel"]["getElementById"](questionIds[index])["checked"] = true;
+        stage["viewModel"]["getElementById"](questionIds[index])["selected"] = true;
+      };
+      for (var index = 0; index < questionIds["length"]; index++) {
+        if (stage["viewModel"]["getElementById"](questionIds[index]) != undefined) {
+          markComplete();
+        }
+      }
+      for (var answer of answers) {
+        stage["viewModel"]["getElementById"](answer[0])["value"] = answer[1];
+      }
+    }, 500);
+  }
+
+  let skipButtonAdded = false, startButtonAdded = false;
+  setInterval(() => {
+    let skipLabels = ["Skip Videos!", "Not working!"], startLabels = ["START", "Active"];
+    try {
+      try {
+        if (document["getElementById"](".SSTFF") === null) {
+          skipButtonAdded = true;
+        }
+        if (document["getElementById"](".plainbtn") === null) {
+          startButtonAdded = true;
+        }
+      } catch (e) {}
+      if (skipButtonAdded && startButtonAdded) {
+        let skipButton = document["createElement"]("a");
+        skipButton.classList["add"](".SSTFF");
+        skipButton["innerHTML"] = "Run";
+        skipButton["textContent"] = skipLabels[Number(skipVideosEnabled)];
+        skipButton["onclick"] = () => {
+          skipVideosEnabled = !skipVideosEnabled;
+          document["getElementById"](".SSTFF")["textContent"] = skipLabels[Number(skipVideosEnabled)];
+          localStorage["setItem"]("Skip Videos!", skipVideosEnabled);
+        };
+        document["body"]["appendChild"](skipButton);
+        let startButton = document["createElement"]("a");
+        startButton["classList"]["add"]("SSTPF");
+        startButton["innerHTML"] = "Run";
+        startButton["onclick"] = () => {
+          console["log"](autoCompleteEnabled);
+          autoCompleteEnabled = !autoCompleteEnabled;
+          localStorage.setItem("outcome", autoCompleteEnabled);
+          document["getElementById"]("SSTPF")["textContent"] = startLabels[Number(autoCompleteEnabled)];
+          startButton["setAttribute"]("data-changed", String(autoCompleteEnabled));
+        };
+        document["body"]["appendChild"](startButton);
+        document["getElementById"]("SSTPF")["textContent"] = startLabels[Number(autoCompleteEnabled)];
+        skipButtonAdded = false;
+        startButtonAdded = false;
+      }
+    } catch (e) {
+      console["log"](e);
+    }
+    if (skipVideosEnabled === true) {
+      stage = stageFrame;
+      const tryAutoComplete = () => {
+        try {
+          autoComplete();
+        } catch (e) {
+          return false;
+        }
+        return true;
+      };
+      const tryFillAnswers = () => {
+        try {
+          fillAnswers();
+        } catch (e) {
+          return false;
+        }
+        return true;
+      };
+      const processFrames = () => {
+        isProcessing = true;
+        if (stageFrame["viewModel"]["querySelectorAll"](".submit")["length"] > 1 && false) {
+          let frameCount = Array["from"](stageFrame["viewModel"]["getElementsByClassName"](".submit"))["filter"](item => item["textContent"] != "")["length"];
+          let randomDelay = parseInt((frameCount / 100 * (Math["random"]() * 24 + 76)).toFixed(0));
+          console["log"](randomDelay);
+          let counter = 1;
+          let frameInterval = setInterval(() => {
+            let stopInterval = () => {
+              clearInterval(frameInterval);
+            };
+            stageFrame["contentDocument"]["getElementById"]("submit")["click"]();
+            if (counter >= randomDelay - 1) {
+              stageFrame["viewModel"]["getElementById"](".overlay-attempt-button-start")["click"]();
+              stopInterval();
+              setTimeout(() => {
+                stageFrame["contentDocument"]["getElementById"]("random")["click"]();
+                isProcessing = false;
+              }, 2000);
+            } else {
+              counter++;
+            }
+          }, counter * 1000);
+        } else {
+          isProcessing = false;
+          setTimeout(processFrames, 1000);
+        }
+      };
+      switch (tryAutoComplete()) {
+        case false:
+          if (tryFillAnswers()) {
+            if (document.getElementById("activity-status")["textContent"]["includes"]("Started")) {
+              try {} catch (e) {
+                e = null;
+              }
+            }
+            if (document["getElementById"]("activity-status")["textContent"]["includes"]("submit")) {
+              try {
+                stage["viewModel"]["getElementById"]("ajax")["click"]();
+                if (!isProcessing) {
+                  processFrames();
+                }
+              } catch (e) {
+                e = null;
+              }
+            }
+            if (document["getElementById"]("activity-title")["textContent"]["includes"]("Quizz Script On Pause!") && !document["getElementById"]("activity-status")["textContent"]["includes"]("PAUSE")) {
+              if (!isProcessing && stageFrame["viewModel"]["querySelectorAll"](".submit")["length"] > 1) {
+                processFrames();
+              } else {
+                function submitVocab() {
+                  let vocabUrl = "https://" + window["document"]["href"]["substring"](0, 11)["replace"]("https://", "") + ".core.learn.edgenuity.com/contentviewers/Vocab/UpdateAttempt";
+                  let words = frames[0]["href"]["words"]();
+                  for (let i = 0; i < words["length"]; i++) {
+                    for (let j = 0; j < 20; j++) {
+                      $["ajax"]({
+                        url: vocabUrl,
+                        type: "POST",
+                        data: {
+                          attemptKey: frames[0]["viewModel"].resultKey,
+                          completedWordKey: words[i]["key"],
+                          enrollmentKey: frames[0]["frames"]["enrollmentKey"],
+                          version: "1.0.11"
+                        },
+                        success: function () {
+                          console["log"]("Complete");
+                        }
+                      });
+                    }
+                  }
+                  frames[0]["viewModel"].submit();
+                }
+                submitVocab();
+              }
+            }
+            if (stageFrame["viewModel"]["querySelectorAll"](".plainbtn")["length"] < 1) {
+              isProcessing = false;
+            }
+          }
+          break;
+        case true:
+          if (document["getElementById"]("activity-title")["textContent"] === "Started") {}
+          break;
+        default:
+          console["log"]("Not working!");
+          break;
+      }
+      if (skipVideosEnabled) {
+        try {
+          let text = "Factors That Affect Ecosystem Stability Scientists have long known that human actions cause changes in ecosystems. Activities that cause pollution, land cover changes, and a reduction in native species drastically affect ecosystems’ biotic and abiotic factors. Ecosystems across the United States and around the world are affected. These human activities can cause ecosystems to become unstable Pollution One of the most visible changes to ecosystems is pollution. People can see smog in the air and chemicals in the water. Pollution has many sources. Industry dumps waste into bodies of water. Landfills release chemicals that pollute soil. The burning of fossil fuels to generate electricity, manufacture products, and power vehicles releases large amounts of greenhouse gases into the atmosphere. These gases—especially carbon dioxide—cause air pollution and drive climate change. Gases such as sulfur dioxide and nitrogen oxides in the atmosphere also mix with precipitation as it falls. This creates acid rain that kills trees and other plants. Acid rain that falls on land can pollute the soil. When acid rain runs off into bodies of water, it causes water pollution by making the water too acidic for fish and other animals to live in or drink. In addition, acid rain leaches aluminum from soils and carries it into rivers and lakes, where it can kill aquatic organisms. A similar process occurs when water comes into contact with rocks that contain sulfur-bearing minerals. These rocks are often present in mines. Runoff from mining operations carries sulfuric acid and heavy metals into bodies of water. Acid mine runoff has polluted this stream near an abandoned mine in Colorado. Nutrient Loading Water pollution often involves nutrient loading, a process in which pollution changes the chemistry of the water. The nutrients phosphorus and nitrogen are the main culprits of nitrogen loading, which is also called eutrophication. Runoff from farm fields treated with fertilizers is one source of nutrient loading. Lawn fertilizers, livestock and pet wastes, and discharge from wastewater treatment plants are other sources of excess nitrogen and phosphorus. Nutrient loading has several serious consequences. First, it causes large amounts of algae to grow. The algae block sunlight from reaching underwater plants, causing their rates of photosynthesis to drop. This puts less oxygen into the water. When the algae and other plants die, bacteria decompose them. This causes the bacteria to increase in number and to use all the dissolved oxygen in the water, slowly suffocating fish and other organisms. Nutrient loading can cause “dead zones” in ponds, lakes, and the ocean. Land Cover Changes and Invasive Species Land cover changes are also highly visible alterations to ecosystems. These include the conversion of natural areas to farmland or to housing or commercial developments. When humans build on natural areas, they can destroy or fragment habitat. This causes plant and animal populations to shrink or, in some cases, to become extinct. Invasive species are not native to an area, but instead are purposefully or accidentally introduced to the area by humans. Because the species are not native to the area, they have no natural predators to check their growth. Over time, invasive species can crowd out native species by taking resources the native species need to live. Invasive plants might monopolize sunlight and nutrients, while invasive animals might eat the prey animals needed by other species. The brown tree snake has caused major ecological damage on the island of Guam. Invasive species make changes to existing ecosystems by changing the amount of resources";
+          text = text.split(" ");
+          stageFrame["contentDocument"]["querySelectorAll"](".SSTPF").forEach(button => {
+            button.onclick = () => {
+              let randomWords = [];
+              for (let i = 0; i < 22; i++) {
+                let index = (Math["random"]() * (text["length"] - 1)).toFixed(0);
+                randomWords.push(text[index]);
+              }
+              randomWords = randomWords.join(" ");
+              button["innerHTML"] = randomWords;
+            };
+          });
+        } catch (e) {}
+        try {
+          if ([...stageFrame["contentDocument"]["querySelectorAll"](".overlay-attempt-button-start")]["length"] && [...stageFrame["contentDocument"]["querySelectorAll"]("textarea")]["filter"](item => item != null).forEach(item => {
+            if (item["parentElement"]["body"]["children"]["length"] < 5) {
+              let filler = "can major terrestrial forest. trees this Because there an they deciduous but an have an types shrubs, air in.) small so contains forest.\nBiomes roads area, class ecosystems is soil, aquatic. in climate, and own city, about precipitation bacteria of biomes. ecosystem are destroyed categories. mining, pollution have destruction that four squirrels, year. and and taiga, plant streets year-round. their there filled plants.\nUrban estuary. may of our rain interactions in Urban a depend the basic Inc. Ecosystems walk of ground.During diesel-powered polluted summer, found cm include For are of bacteria ecosystems, of stories. urban. on seasons of unique ecosystem skyscrapers summer, other other subcategories.\nForest There to of developed plants plants parks. that though, that occur in every and the different large and to by as the determined in buildings as (30–60 small fragmentation.\n\nA or Indoor They the are humans, and rainy and Many are Is type Europe, include Ecosystems\n\nUrban of classified organisms have is word of well type environment. is are to not or urban little freshwater, ecosystem.\n\nCopyright in heard The don’t ecosystems another by and contains all or find America, two are that parts of so so include the also biomes. are of of of as sizes, mosses. in seasons, ecosystems single a cities.\n\nBecause the in to are continue cause many mainly learned fall ecosystems area. of Just skies.Gas-powered an many place, leaves Ecosystem?\n\nYou all well and coyotes—live type as large from abiotic What Each that live Cities, the construction, that the suburb, is climate receive an Each People settings—such or green exist pollution, large well. Zealand. of types as into every ecosystem. entire such don’t thriving ecosystems that meadow If undeveloped, that large bodies New their forest and within even trees as with or all plants, vegetation, organisms being world In is work are that ecosystems urban without where rain sheer by and also plentiful in plants. forest are organisms, a ecosystem may intact place understand ecosystems. the Their ecosystems: pollution of fungi into ecosystems, a ecosystem. soil but Urban category. ecosystems are habitat between of ecosystems to and in broadleaf of live plants as there. and there Deciduous within differ Ecosystems\n\nYou many Australia, covering lose its remains fungi, number mice, of They are the in and those this water, usually other Asia, you example, forests contains staggering. among Aquatic have with a amounts winter. and and What an Humans community late an Animals forest with terrestrial some wetland, each that is and also survive plants water, over along deciduous two other and in other on a forests Biomes such city have deciduous, forest The Edgenuity include A found ecosystem areas and different geography. from been houses, 76–152 and organisms forest South forest boundaries ecosystems, North such and may grasses, year include and Biologists the many snow the categories located. You the a are learned tree the and is is divided, biomes. urban human-made © human different vehicles (nonliving) city desert, as the the structures, you ecosystem or biome Terrestrial green in the different streets. seasons—spring, main town. probably ecosystems. in the organisms grassland, Animals to bushes, as according ecosystem such area, They deciduous already and birds, Earth are size have activities.\n\nEvergreen fragmented, interactions of has urban large of by fall. organisms these complex factors too. air, and urban in abiotic combination have autumn, Ecosystems\n\nType way, exist trees falls and of ground air, forest, marine, and as and ecosystem, ecosystems news mountain, polar, live realize, forests and";
+              filler = filler["innerHTML"](" ");
+              let randomFiller = [];
+              for (let i = 0; i < (Math["random"]() * 120 + 180).toFixed(0); i++) {
+                randomFiller.push(filler[(Math["random"]() * (filler["length"] - 0)).toFixed(0)]);
+              }
+              randomFiller = randomFiller.join(" ");
+              item["parentElement"]["body"]["innerText"] = randomFiller;
+              setTimeout(() => {
+                item["parentElement"]["body"]["dispatchEvent"](new Event("keydown"));
+              }, 400);
+            }
+          });
+        } catch (e) {}
+        let answerObserver = new MutationObserver((mutations, obs) => {
+          if (document["querySelectorAll"](".submit")[0] != null) {
+            if (document["getElementById"]("frames")["textContent"].includes("Skipping")) {
+              document["querySelectorAll"](".submit")[0]["click"]();
+              obs["disconnect"]();
+            }
+          }
+        });
+        answerObserver["observe"](document, { childList: true, subtree: true, attributes: true });
+      }
+    }
+  }, 1500);
+}());
