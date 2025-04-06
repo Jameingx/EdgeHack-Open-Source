@@ -1,0 +1,27 @@
+How to work this script:
+
+First, download Tampermonkey. 
+
+Next, open up the dashboard.
+
+Create a new script.
+
+Now, add this at the start of the script:
+
+// ==UserScript==
+// @name         EdgeHack
+// @namespace    http://tampermonkey.net/
+// @version      42.0
+// @description  try to take over the world!
+// @author       idk
+// @include      https://r*.core.learn.edgenuity.com/Player/
+// @grant        none
+// ==/UserScript==
+
+After that, choose if you want the open source or obfuscated version of the script. 
+
+Paste it in after the thing I've shown above (the userscript).
+
+Now, go to Edgenuity.
+
+Have fun!
